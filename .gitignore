@@ -1,0 +1,21 @@
+# Virtual environment
+my_venv/
+venv/
+.venv/
+
+# Environment secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
